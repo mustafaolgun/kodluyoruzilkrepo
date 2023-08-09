@@ -7,7 +7,7 @@ README.md dosyası, bir adet de index.html barındırıyor.
 
 ## Installation
 
-Öncelikle projeyi clonelayın. (Buraya bizim repomuzdan aldığımız link gelecek)
+Öncelikle projeyi clonelayın.
 
 ```bash
 git clone https://github.com/mustafaolgun/kodluyoruzilkrepo.git
